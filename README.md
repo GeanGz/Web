@@ -1,3 +1,3 @@
-# The way to run nba
+# The way to run PSEUDOCALIPER
 pynecone==0.1.27 + The minimum version of node is 16.6.0.  
 If the node's version is smaller than 16.6.0, the code cannot run.  

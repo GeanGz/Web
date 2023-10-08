@@ -53,7 +53,7 @@ export default function Component() {
   {`Cannot connect to server: `}
   {(connectError !== null) ? connectError.message : ''}
   {`. Check if server is reachable at `}
-  {`http://app.pseudocaliper.com:3000`}
+  {`http://localhost:8000`}
 </Text>
 </ModalBody>
 </ModalContent>
